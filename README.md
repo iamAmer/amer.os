@@ -15,7 +15,7 @@ Issue: [#788](https://github.com/cilium/cilium.io/issues/778),
 Skills: JavaScript
 
 [datacenter-planner](https://github.com/2listic/datacenter-planner) – 
-Added FPT telecom to users page – 
+Added keyboard shortcuts info – 
 PR: [#33](https://github.com/2listic/datacenter-planner/pull/33), 
 Issue: [#27](https://github.com/2listic/datacenter-planner/issues/27), 
 Skills: JavaScript, vite
