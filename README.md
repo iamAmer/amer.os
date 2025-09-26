@@ -24,3 +24,9 @@ Skills: JavaScript, vite
 Improved keypress handling – 
 PR: [#34](https://github.com/2listic/datacenter-planner/pull/34), 
 Skills: JavaScript, vite
+
+[datacenter-planner](https://github.com/2listic/datacenter-planner) – 
+Added JSDoc – 
+PR: [#36](https://github.com/2listic/datacenter-planner/pull/36), 
+Issue: [#26](https://github.com/2listic/datacenter-planner/issues/26), 
+Skills: JavaScript, JSDoc
