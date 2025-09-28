@@ -30,3 +30,15 @@ Added JSDoc –
 PR: [#36](https://github.com/2listic/datacenter-planner/pull/36), 
 Issue: [#26](https://github.com/2listic/datacenter-planner/issues/26), 
 Skills: JavaScript, JSDoc
+
+[datacenter-planner](https://github.com/2listic/datacenter-planner) – 
+Added undo action feature – 
+PR: [#38](https://github.com/2listic/datacenter-planner/pull/38), 
+Issue: [#37](https://github.com/2listic/datacenter-planner/issues/37), 
+Skills: JavaScript
+
+[datacenter-planner](https://github.com/2listic/datacenter-planner) – 
+Added 2d-shortcuts info section – 
+PR: [#42](https://github.com/2listic/datacenter-planner/pull/42), 
+Issue: [#40](https://github.com/2listic/datacenter-planner/issues/40), 
+Skills: JavaScript
