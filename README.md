@@ -50,3 +50,9 @@ Added spinner during OBJ loading –
 PR: [#45](https://github.com/2listic/datacenter-planner/pull/46),
 Issue: [#25](https://github.com/2listic/datacenter-planner/issues/25),
 Skills: JavaScript
+
+[datacenter-planner](https://github.com/2listic/datacenter-planner) –
+Fixed loading spinner, refactored code –
+PR: [#48](https://github.com/2listic/datacenter-planner/pull/48),
+Issue: [#25](https://github.com/2listic/datacenter-planner/issues/25),
+Skills: JavaScript, three.js
